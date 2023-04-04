@@ -1,0 +1,99 @@
+body {
+	background-color: #f5efe6;
+	display: grid;
+	place-items: center;
+}
+
+/* Login */
+
+.container-login {
+	margin: 100px 50px 50px 50px;
+	background-color: white;
+	border-radius: 20%;
+	width: 600px;
+	height: 500px;
+	position: relative;
+	text-align: center;
+}
+
+.login-text {
+	margin-bottom: 2rem;
+	font-size: 4rem;
+	color: #425f57;
+	padding: 0.5rem;
+	font-family: 'Abril Fatface';
+}
+
+.inputs {
+	background-color: #cfffdc;
+	width: 80%;
+	margin: 1rem;
+}
+
+.username-text {
+	margin-right: 0.5rem;
+	color: #01d28e;
+	font-size: 2rem;
+	font-family: 'Abril Fatface';
+}
+
+.link-parola-uitata {
+	text-decoration: none;
+}
+
+.forget-password {
+	color: #425f57;
+	font-size: 2rem;
+}
+
+.btn1 {
+	-webkit-border-radius: 15;
+	-moz-border-radius: 15;
+	border-radius: 15px;
+	font-family: Arial;
+	color: #425f57;
+	font-size: 25px;
+	background: #ffff;
+	padding: 6px 70px 10px 70px;
+	border: solid #425f57 4px;
+	text-decoration: none;
+	margin-left: 0.7rem;
+}
+
+.btn1:hover {
+	background: #425f57;
+	text-decoration: none;
+	color: #fff;
+}
+
+.btn2 {
+	-webkit-border-radius: 15;
+	-moz-border-radius: 15;
+	border-radius: 15px;
+	font-family: Arial;
+	color: #ffff;
+	font-size: 25px;
+	background: #425f57;
+	padding: 6px 70px 10px 70px;
+	border: solid #425f57 4px;
+	text-decoration: none;
+}
+
+.btn2:hover {
+	background: #fff;
+	color: #425f57;
+	text-decoration: none;
+}
+
+.row {
+	margin-top: 2rem;
+}
+
+/* Resetare parola */
+.reset-text {
+	margin: 2rem;
+	font-size: 4rem;
+	color: #425f57;
+	padding: 0.5rem;
+	font-family: 'Abril Fatface';
+}

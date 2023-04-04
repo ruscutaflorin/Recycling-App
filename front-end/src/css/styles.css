@@ -1,0 +1,126 @@
+body {
+  background-color: #f5efe6;
+}
+
+h1 {
+  font-size: 7rem;
+  text-align: center;
+  font-family: "Abril Fatface";
+  color: #425f57;
+}
+
+h2 {
+  margin-bottom: 3rem;
+  font-family: "Abril Fatface";
+  color: #425f57;
+}
+
+p {
+  margin-bottom: 3rem;
+  font-family: "Abril Fatface";
+  font-size: 1.5rem;
+}
+
+li {
+  font-family: "Abril Fatface";
+  font-size: 1.2rem;
+}
+
+.green-container {
+  background-color: #ffff;
+}
+
+/* NavBar */
+.navbar {
+  padding: 0;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  margin: 0 20px;
+}
+
+.logo {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 20%;
+}
+
+.box {
+  margin: 5rem;
+  height: 20rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.presentation {
+  text-align: center;
+  padding: 2rem 5rem;
+  margin: 2rem 20rem;
+}
+
+.center {
+  margin: auto 16rem;
+  text-align: left;
+}
+
+.footer {
+  text-align: center;
+  background-color: white;
+  height: 60px;
+  padding-top: 20px;
+}
+
+.category {
+  background-color: white;
+  border-radius: 100%;
+  margin: 2rem;
+  height: 17rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.categorie_deseu {
+  height: 10rem;
+}
+
+input[type="checkbox"] {
+  margin: 1rem;
+  transform: scale(1.5);
+}
+
+#concurs {
+  margin: 5rem auto;
+  height: 35rem;
+  width: 50rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+/* List Group */
+.first-item-steps {
+  background-color: #425f57;
+  color: #ffff;
+  font-size: 1.5rem;
+}
+
+.item-steps {
+}
+
+.buton {
+  margin: 2rem auto;
+}
+
+.sponsor {
+  margin: 1rem auto;
+  height: 7rem;
+  width: 7rem;
+  border-radius: 20%;
+}
+
+#quick-fix {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
